@@ -1,3 +1,0 @@
--- Пример SQL запроса для выбора данных из таблицы пользователей
-SELECT id, username, email
-FROM users;
