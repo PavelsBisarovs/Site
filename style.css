@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background: linear-gradient(45deg, #DC466B, #3F5EFB);
+  height: 100vh;
+  font-family: "Montserrat", sans-serif;";
+  
+}
+form {
+  background: rgba(255, 255, 255, 0.3);
+  padding: 3em;
+  height: 320px;
+  border-radius: 20px;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+  box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+}
+
+<style type="text/css">
+    .oval {
+        width: 160px;
+        height: 80px;
+        background: #a84909;
+        border-radius: 40px;
+    }
